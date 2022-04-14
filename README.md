@@ -6,3 +6,4 @@ Simply put the downloaded zip in your Baldur's Gate Enhanced Edition folder. PVZ
 
 Disk size: around 710MB
 
+Beamdog forum topic https://forums.beamdog.com/discussion/83893/mod-alpha-ai-denoised-areas
