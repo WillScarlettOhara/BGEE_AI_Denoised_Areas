@@ -3,7 +3,8 @@ Mod for Baldur's Gate EE that increases the quality of the game areas
 
 For BG2EE, it's here: [BG2EE_AI_Denoised_Areas](https://github.com/WillScarlettOhara/BG2EE_AI_Denoised_Areas)
 
-**Install:** Simply put the downloaded zip in your Baldur's Gate Enhanced Edition folder. TIS and PVRZ files must be placed in the override folder.
+**Install:** Simply put the downloaded zip in your Baldur's Gate Enhanced Edition folder.
+TIS and PVRZ files must be placed in the override folder.
 
 **Disk size:** around 331MB
 
