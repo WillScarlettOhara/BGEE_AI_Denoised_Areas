@@ -3,7 +3,7 @@ Mod for Baldur's Gate EE that increases the quality of the game areas
 
 **!! Consider all areas without water or animations (e.g. fireplaces, doors, flags) as finished.
 Expect visible tile edges in these areas with water or animations.
-The correction of these areas will come little by little because it is a rather tedious process.**
+The correction of these areas will come slowly but surely because it is a rather tedious process.**
 
 For BG2EE, it's here: [BG2EE_AI_Denoised_Areas](https://github.com/WillScarlettOhara/BG2EE_AI_Denoised_Areas)
 
