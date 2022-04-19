@@ -6,7 +6,7 @@ For BG2EE, it's here: [BG2EE_AI_Denoised_Areas](https://github.com/WillScarlettO
 **Install:** Simply put the downloaded zip in your Baldur's Gate Enhanced Edition folder.
 TIS and PVRZ files must be placed in the override folder.
 
-**Disk size:** around 331MB
+**Disk size:** around 620MB
 
 [Beamdog forum discussion](https://forums.beamdog.com/discussion/83893/mod-alpha-ai-denoised-areas)
 
