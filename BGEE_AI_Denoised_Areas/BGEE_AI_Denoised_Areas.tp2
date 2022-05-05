@@ -1,0 +1,16 @@
+BACKUP ~BGEE_AI_Denoised_Areas/backup~
+AUTHOR ~WillScarlettOhara (https://forums.beamdog.com/discussion/83893/mod-ai-denoised-areas)~
+VERSION ~220506~
+
+/////////////////////////////////////////////////////////////////////////////////
+///  AI Denoised Areas
+/////////////////////////////////////////////////////////////////////////////////
+
+BEGIN ~BGEE_AI_Denoised_Areas~
+
+REQUIRE_PREDICATE GAME_IS ~bgee~ @1003
+
+//**************************************************
+// Dump everything into the override
+//**************************************************
+COPY ~BGEE_AI_Denoised_Areas/copy~ ~override~
