@@ -8,7 +8,7 @@ The correction of these issues will come slowly but surely because it is a rathe
 
 For BG2EE, it's here: [BG2EE_AI_Denoised_Areas](https://github.com/WillScarlettOhara/BG2EE_AI_Denoised_Areas)
 
-**Install:** Simply extract the downloaded zip in your Baldur's Gate Enhanced Edition installation folder. Then execute ...\Baldur's Gate Enhanced Edition\setup-BGEE_AI_Denoised_Areas.exe
+**Install:** Simply extract the downloaded zip in your *Baldur's Gate Enhanced Edition installation folder*. Then execute *...\Baldur's Gate Enhanced Edition\setup-BGEE_AI_Denoised_Areas.exe*
 
 **Disk size:** around 620MB
 
